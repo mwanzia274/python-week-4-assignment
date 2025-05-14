@@ -1,0 +1,2 @@
+Hello, this is an example of file handling in Python.
+We are going to modify this content.
